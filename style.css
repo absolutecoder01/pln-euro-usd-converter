@@ -1,0 +1,32 @@
+h1, input{
+    margin: 2.5px;
+    margin-right: 0;
+    margin-left: 5px;
+}
+h1 {
+    font-size: 33px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+p {
+    display: inline;
+    margin-left: 2px;
+}   
+form {
+    border: 1px solid blue;
+    width: 17%;
+    
+}
+footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+input:last-of-type {
+    margin-bottom: 20px;
+}
+input[type="button"] {
+    background-color: rgb(206, 205, 205);
+    border: 0.1px solid grey;
+    padding: 3px;
+}
